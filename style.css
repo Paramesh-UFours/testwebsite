@@ -1,0 +1,8 @@
+/* Custom styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: linear-gradient(135deg, #007bff, #6610f2);
+}
